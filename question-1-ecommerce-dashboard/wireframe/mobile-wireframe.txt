@@ -1,0 +1,5 @@
+Create a Figma wireframe for a mobile e-commerce admin dashboard:
+- Top: Hamburger menu icon (to open sidebar) and small search bar.
+- Main area: Stack the three boxes vertically (Sales, Orders, Inventory).
+- Ensure buttons are big enough to tap (at least 44x44 pixels).
+Export as PNG and replace this file.

@@ -1,0 +1,4 @@
+Create a Figma wireframe for a desktop LMS dashboard:
+- Sidebar: Menu with "Courses," "Grades," "Calendar," "Profile."
+- Main area: List of courses (as cards), a calendar for deadlines, and a progress bar.
+Export as PNG and replace this file.

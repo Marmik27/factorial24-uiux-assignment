@@ -1,0 +1,15 @@
+#sidebar {
+  transition: transform 0.3s ease;
+}
+#sidebar.open {
+  transform: translateX(0);
+}
+@media (max-width: 768px) {
+  #sidebar {
+    transform: translateX(-100%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+}

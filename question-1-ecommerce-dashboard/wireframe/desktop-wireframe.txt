@@ -1,0 +1,5 @@
+Create a Figma wireframe for a desktop e-commerce admin dashboard:
+- Left sidebar: Menu with "Dashboard," "Products," "Orders," "Customers," "Analytics."
+- Top header: Search bar and user profile (name + photo).
+- Main area: Three boxes showing "Total Sales: $12,345," "Pending Orders: 23," "Inventory: 1,234 items."
+Export as PNG and replace this file.

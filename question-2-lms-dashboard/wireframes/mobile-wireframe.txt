@@ -1,0 +1,4 @@
+Create a Figma wireframe for a mobile LMS dashboard:
+- Top: Hamburger menu and app name.
+- Main area: Stack course cards vertically, show a small progress bar.
+Export as PNG and replace this file.
